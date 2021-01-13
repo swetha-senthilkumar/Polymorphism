@@ -25,7 +25,7 @@ public class Shape {
 		double areaCircle = shape.area(5);
 		long areaRect = shape.area(10, 5);
 		
-		System.out.println("Area of circle: "+areaCircle);
+		System.out.println("Area of a circle: "+areaCircle);
 		System.out.println("Area of a rectangle: "+areaRect);
 	}
 }
